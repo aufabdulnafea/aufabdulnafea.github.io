@@ -2,7 +2,7 @@ function App() {
   return (
     <div className='w-screen h-screen bg-slate-950 flex items-center justify-center'>
       <div>
-        <div className='text-5xl text-slate-400 font-bold py-2'>
+        <div className='text-5xl text-slate-200 font-bold py-2'>
           Abdul Nafea Auf
         </div>
         <div className='text-slate-400 text-xl flex items-center'>
